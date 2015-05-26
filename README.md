@@ -1,0 +1,3 @@
+# vimColor
+my vim color
+。。。。
